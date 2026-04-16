@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0626-exchange-seats) |
 | [1321-restaurant-growth](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/1341-movie-rating) |
