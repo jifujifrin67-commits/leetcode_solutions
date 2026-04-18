@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0626-exchange-seats) |
