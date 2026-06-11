@@ -7,3 +7,5 @@ def meltTable(report: pd.DataFrame) -> pd.DataFrame:
         value_name="sales"       
 
     )
+
+    
