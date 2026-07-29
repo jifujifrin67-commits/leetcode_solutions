@@ -61,4 +61,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
