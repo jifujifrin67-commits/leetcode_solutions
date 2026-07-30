@@ -9,3 +9,6 @@ class Solution:
             num = (num + x // num) // 2
 
         return num
+
+
+        
