@@ -87,9 +87,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0198-house-robber) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
