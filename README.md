@@ -76,16 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
