@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
