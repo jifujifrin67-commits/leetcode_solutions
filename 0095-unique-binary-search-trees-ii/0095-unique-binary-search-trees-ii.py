@@ -4,13 +4,13 @@ class Solution:
         if n == 0:
             return []
 
-        def build(start,end):
+        def build(start,end): 
 
             if start > end:
                 return [None]
 
             res = []
-
+            
             for root_val in range(start,end+1):
                 left_trees = build(start,root_val-1)
                 right_trees = build(root_val+1,end)
