@@ -5,3 +5,6 @@ class Solution:
             if i.isalnum():
                 news += i.lower()
         return news==news[::-1]
+
+
+        
