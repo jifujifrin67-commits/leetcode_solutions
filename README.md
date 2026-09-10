@@ -110,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
