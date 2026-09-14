@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0101-symmetric-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
