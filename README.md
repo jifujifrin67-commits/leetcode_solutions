@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -226,4 +227,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
