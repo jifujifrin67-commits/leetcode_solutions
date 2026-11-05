@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jifujifrin67-commits/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
